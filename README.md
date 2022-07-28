@@ -93,13 +93,13 @@ Indented code
   | ext     | extension to be used for dest files. |
   
   ## Links
-  [link text]
+  [link text](http://dev.nodeca.com)
   
-  [link with title]
+  [link with title](http://nodeca.github.io/pica/demo/ "title text!")
   
   ## Images
   
-  ![Minion]
+  ![Minion](http://octodex.github.com/images/minion.png)
   
   ## The End!
   
